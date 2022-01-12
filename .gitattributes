@@ -1,0 +1,6 @@
+*.tcl linguist-detectable=false
+*.tm linguist-detectable=false
+*.afm linguist-detectable=false
+*.csv linguist-detectable=false
+*.svg linguist-detectable=false
+*.eps linguist-detectable=false
